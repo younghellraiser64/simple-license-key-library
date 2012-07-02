@@ -1,0 +1,10 @@
+It's a simple formula:
+
+NOExx-1xExx-2xExx-3xExO
+
+Numbers at 1,2,3 should add up to a total of number at N.
+Numbers at E should all be even.
+Numbers at O should both be odd.
+Numbers at x can be any single digit number you want.
+
+A sample serial number: 31245-12445-12645-12847
