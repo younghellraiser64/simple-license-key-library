@@ -1,5 +1,5 @@
 Simple License Key Library.
-Dedicated to the public domain. Attribution and credit is appreciated, but not required.
+Dedicated to the public domain. Attribution and credit is appreciated, but not required. See UNLICENSE for more details.
 
 Current version: 0.9b
 

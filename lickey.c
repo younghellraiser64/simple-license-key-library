@@ -1,6 +1,7 @@
 /*
     Simple License Key Library
-	By Martin Coleman (www.martincoleman.com). Dedicated to the public domain.
+	By Martin Coleman (www.martincoleman.com).
+    Dedicated to the public domain. See UNLICENSE for more details.
 
 	Created 2012-06-25
 	- This was made for a small programing job, which later fell through.
