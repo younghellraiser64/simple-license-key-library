@@ -49,9 +49,21 @@ int key_check(char *serial_key)
 
 	/* get the number segments into strings */
 	s_num1=strtok(serial_key, "-");
+	if (s_num1 == NULL) {
+		return 0;
+	}
 	s_num2=strtok(NULL, "-");
+	if (s_num2 == NULL) {
+		return 0;
+	}
 	s_num3=strtok(NULL, "-");
+	if (s_num3 == NULL) {
+		return 0;
+	}
 	s_num4=strtok(NULL, "-");
+	if (s_num4 == NULL) {
+		return 0;
+	}
 
 	/* convert to decimals */
 	d_num1=s_num1[0]-'0';
